@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyCat</string>
+
+    <string name="linktosite">
+        <a href="https://www.instagram.com/karuq8/?hl=en">instagram page link</a>
+    </string>
+
+
+</resources>
